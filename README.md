@@ -1,16 +1,51 @@
-### Hi there 👋
 
-<!--
-**Lincoln16yyy/Lincoln16yyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPI  
+💻 Técnico em Informática   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ Sobre mim
+
+Sou um estudante focado em crescer na área de tecnologia, com interesse em desenvolvimento de sistemas e criação de soluções úteis.  
+Já participei de projetos acadêmicos premiados e estou sempre buscando aprender mais.
+
+---
+
+ 🛠️ Tecnologias que estou estudando
+
+- Java   
+- Python 
+- HTML & CSS   
+
+---
+
+📌 Projetos em destaque
+
+ 💤 Meu Soninho
+Aplicativo desenvolvido durante o ensino técnico  
+🏆 Projeto premiado na MINFO  
+
+ 📱 iMenu
+Sistema/aplicativo desenvolvido em equipe  
+🏆 Projeto premiado em MINFO  
+
+---
+
+Idiomas:
+
+- Inglês – Avançado (leitura, escuta e conversação com nativos)
+- Espanhol - intermediario (leitura, compreensao e conversaçao) 
+---
+
+ Contato
+
+ Email: kakuoriginal2@gmail.com  
+ Whatssapp:(89) 981315875
+---
+
+ 📈 Objetivo
+
+Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, aprender na prática e evoluir como desenvolvedor.
+
+---
