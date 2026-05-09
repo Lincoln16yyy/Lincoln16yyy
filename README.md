@@ -16,7 +16,8 @@ Já participei de projetos acadêmicos premiados e estou sempre buscando aprende
 
 - Java   
 - Python 
-- HTML & CSS   
+- HTML & CSS
+- C
 
 ---
 
