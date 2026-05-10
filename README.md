@@ -50,4 +50,7 @@ Idiomas:
 Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, aprender na prática e evoluir como desenvolvedor.
 
 ---
-![Top Langs](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Lincoln16yyy&layout=compact&theme=dracula)   
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/Lincoln16yyy?theme=dark">
+  <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/Lincoln16yyy">
+</picture>   
