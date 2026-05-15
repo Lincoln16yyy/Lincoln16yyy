@@ -54,3 +54,30 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhe
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/Lincoln16yyy?theme=dark">
   <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/Lincoln16yyy">
 </picture>   
+## 📊 Minhas Estatísticas do GitHub
+
+Aqui estão algumas métricas sobre o meu desenvolvimento e repositórios:
+
+### ⚡ Visão Geral e Tecnologias
+<p align="center">
+  <img src="https://gh-stats-ruddy.vercel.app/api/stats?user=Lincoln16yyy&theme=dark" alt="Stats Gerais" />
+  <img src="https://gh-stats-ruddy.vercel.app/api/langs?user=Lincoln16yyy&theme=dark" alt="Top Linguagens" />
+</p>
+
+### 💻 Perfil de Desenvolvedor e Projetos
+<p align="center">
+  <img src="https://gh-stats-ruddy.vercel.app/api/dna?user=Lincoln16yyy&theme=dark" alt="Developer DNA" />
+  <img src="https://gh-stats-ruddy.vercel.app/api/repos?user=Lincoln16yyy&theme=dark" alt="Top Repositórios" />
+</p>
+
+<p align="center">
+  <img src="https://gh-stats-ruddy.vercel.app/api/mood?user=Lincoln16yyy&theme=dark" alt="Mood dos Commits" />
+  <img src="https://gh-stats-ruddy.vercel.app/api/rpg?user=Lincoln16yyy&theme=dark" alt="Coding RPG" />
+</p>
+
+### 🗺️ Atividade e Histórico
+<p align="center">
+  <img src="https://gh-stats-ruddy.vercel.app/api/heatmap?user=Lincoln16yyy&theme=dark" alt="Heatmap de Contribuições" />
+  <img src="https://gh-stats-ruddy.vercel.app/api/graveyard?user=Lincoln16yyy&theme=dark" alt="Project Graveyard" />
+</p>
+
