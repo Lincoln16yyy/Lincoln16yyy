@@ -61,41 +61,39 @@ Aqui estão algumas métricas sobre o meu desenvolvimento e repositórios:
 
 
 
+<div align="center">
 
-### ⚡ Visão Geral e Tecnologias
+# 📊 Central de Comando - Lincoln16yyy
+
+<p>Aqui estão as métricas e o progresso do meu desenvolvimento</p>
+<hr />
+
+## ⚡ Visão Geral e Estatísticas
+
 <p align="center">
   <img src="https://gh-stats-ruddy.vercel.app/api/stats?user=Lincoln16yyy&theme=dark" alt="Stats Gerais" />
   <img src="https://gh-stats-ruddy.vercel.app/api/langs?user=Lincoln16yyy&theme=dark" alt="Top Linguagens" />
 </p>
 
+## 💻 Habilidades & Repositórios
 
-
-
-
-### 💻 Perfil de Desenvolvedor e Projetos
 <p align="center">
   <img src="https://gh-stats-ruddy.vercel.app/api/dna?user=Lincoln16yyy&theme=dark" alt="Developer DNA" />
   <img src="https://gh-stats-ruddy.vercel.app/api/repos?user=Lincoln16yyy&theme=dark" alt="Top Repositórios" />
 </p>
-
-
-
-
 
 <p align="center">
   <img src="https://gh-stats-ruddy.vercel.app/api/mood?user=Lincoln16yyy&theme=dark" alt="Mood dos Commits" />
   <img src="https://gh-stats-ruddy.vercel.app/api/rpg?user=Lincoln16yyy&theme=dark" alt="Coding RPG" />
 </p>
 
+## 🗺️ Atividade e Histórico
 
-
-
-
-
-
-### 🗺️ Atividade e Histórico
 <p align="center">
   <img src="https://gh-stats-ruddy.vercel.app/api/heatmap?user=Lincoln16yyy&theme=dark" alt="Heatmap de Contribuições" />
   <img src="https://gh-stats-ruddy.vercel.app/api/graveyard?user=Lincoln16yyy&theme=dark" alt="Project Graveyard" />
 </p>
 
+<hr />
+<p align="center">© 2024 Lincoln16yyy</p>
+</div>
