@@ -24,9 +24,8 @@ Aqui estão as tecnologias que venho estudando e aplicando em meus projetos:
 
 ### 📌 Projetos em Destaque
 
-*   **💤 Meu Soninho**
+*   **💤 Noite Boa**
     *   *Descrição:* Aplicativo desenvolvido focado em saúde/bem-estar.
-    *   *Reconhecimento:* 🏆 Projeto premiado na MINFO
 
 *   **📱 iMenu**
     *   *Descrição:* Sistema/aplicativo de cardápio digital desenvolvido em equipe.
