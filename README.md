@@ -50,7 +50,7 @@ Busco minha primeira oportunidade (Estágio ou Júnior) na área de tecnologia p
 
 Se quiser trocar uma ideia sobre projetos ou oportunidades, pode me chamar:
 
-*   **E-mail:** [kakuoriginal2@gmail.com](mailto:kakuoriginal2@gmail.com)
+*   **E-mail:** [lincolngustavo819@gmail.com](mailto:lincolngustavo819@gmail.com)
 *   **WhatsApp:** [(89) 98131-5875](https://wa.me/5589981315875)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/Lincoln16yyy?theme=dark">
